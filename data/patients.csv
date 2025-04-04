@@ -1,0 +1,9 @@
+patient_id,age,weight_kg,diagnosis,blood_pressure_systolic,blood_pressure_diastolic,cholesterol_level,days_in_hospital,patient_satisfaction,department
+P101,34,70,Flu,120,80,180,2,4,General Medicine
+P102,65,85,Heart Disease,140,90,220,7,3,Cardiology
+P103,22,55,Broken Arm,110,70,160,1,5,Orthopedics
+P104,78,95,Arthritis,160,100,250,5,2,Rheumatology
+P105,41,68,Migraine,125,82,190,3,4,Neurology
+P106,59,80,Diabetes,135,88,210,6,3,Endocrinology
+P107,28,60,Sprain,115,75,170,2,5,Orthopedics
+P108,82,100,Fatigue,170,110,280,8,1,General Medicine

@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+
 # C extensions
 *.so
 
