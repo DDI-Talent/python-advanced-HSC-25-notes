@@ -1,0 +1,25 @@
+{
+  "requested_date": "01012025",
+  "server_info": {"location": "europe-2", "timezone": "GMT"},
+  "hospitals": [
+    {
+      "hospital_name":"Western General",
+      "location":{"city":"Edinburgh", "board":"NHS Lothian"},
+      "staff":[
+        {"name":"Pim", "age":34, "department":"ER", "shifts": ["day"]},
+        {"name":"Jannet", "age":54, "department":"Oncology", "shifts": ["day", "night"]},
+        {"name":"Aoife", "age":25, "department":"Oncology",  "shifts": ["night"]}
+      ]
+    },
+    {
+      "hospital_name":"Raigmore Hospital",
+      "location":{"city":"Inverness", "board":"NHS Highland Board"},
+      "staff":[
+        {"name":"Pat", "age":24, "department":"ER", "shifts": ["day"]},
+        {"name":"Jimmy", "age":44, "department":"ER", "shifts": ["day", "night"]},
+        {"name":"Siobhan", "age":45, "department":"ER",  "shifts": ["day", "night"]}
+      ]
+    }
+  ]
+  
+}
